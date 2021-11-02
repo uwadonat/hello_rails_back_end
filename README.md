@@ -7,10 +7,6 @@
 - Ruby
 - Ruby on Rails
 
-## Live Demo
-
-[API LIVE LINK](https://hello-world-rails-react-api.herokuapp.com/api/v1/messages)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
