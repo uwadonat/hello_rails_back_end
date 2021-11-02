@@ -1,24 +1,61 @@
-# README
+# Hello-world-two-apps
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> The main goal of this project is to connect a Rails and a react as one app, Rails for the backend, and react for the UI.
 
-Things you may want to cover:
+## Built With
 
-- Ruby version
+- Ruby
+- Ruby on Rails
 
-- System dependencies
+## Live Demo
 
-- Configuration
+[API LIVE LINK](https://hello-world-rails-react-api.herokuapp.com/api/v1/messages)
 
-- Database creation
+## Getting Started
 
-- Database initialization
+To get a local copy up and running follow these simple example steps.
 
-- How to run the test suite
+### Prerequisites
 
-- Services (job queues, cache servers, search engines, etc.)
+Ruby: 2.6.3
+Rails: 5.2.3
+Postgres: >=9.5
+Node.js
 
-- Deployment instructions
+### Setup
 
-- ...
+Instal gems with:
+
+```
+bundle install
+```
+
+Setup database with:
+
+```
+   rails db:create
+   rails db:migrate
+   rails db:seed
+```
+
+### Usage
+
+[API LIVE LINK](https://hello-world-rails-react-api.herokuapp.com/api/v1/messages)
+
+For the app to run and display messages, you need **[this](https://github.com/uwadonat/hello_react_front_end/pull/1)** app.
+
+## Author
+
+👤 **Donat UWAMAHORO**
+
+- Github: [Donat Uwamahoro](https://github.com/uwadonat)
+- Linkedin: [Donat Uwamahoro](https://www.linkedin.com/in/uwadonat)
+- Twitter: [Donat Uwamahoro](https://twitter.com/uwahoroDonat)
+
+## Contributions
+
+Contributions, issues and requests are welcome
+
+## Show support
+
+Give a star if you like the project
